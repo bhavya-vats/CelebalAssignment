@@ -1,0 +1,41 @@
+body{
+background: url("C:\Users\Dell\Desktop\STUDY MATERIALS\projects\celebaltask1\src\assets\Rectangle1.png");
+}
+
+.main-content {
+    position: absolute;
+width: 665px;
+height: 164px;
+left: 122px;
+top: 200px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 800;
+font-size: 64px;
+line-height: 82px;
+/* or 128% */
+
+
+color: #000000;
+
+}
+
+.subject {
+    position: absolute;
+width: 650px;
+height: 99px;
+left: 122px;
+top: 384px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 36px;
+/* or 180% */
+
+letter-spacing: 0.2px;
+
+color: #000000;
+}

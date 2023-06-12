@@ -1,0 +1,60 @@
+nav {
+    margin-right: 5%;
+    margin-top: 30px;
+}
+
+nav ul {
+display: flex;
+justify-content: flex-end;
+height: 20px;
+font-family: 'Manrope';
+font-style: normal;
+padding-right: 10% ;
+font-weight: 700;
+font-size: 14px;
+line-height: 20px;
+color: #000000;
+
+/* identical to box height, or 143% */
+}
+
+nav ul li a{
+    color: #000000;
+}
+#main {
+    margin-top: 1%;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* Inside auto layout */
+nav ul li{
+flex: none;
+margin-left: 10px;
+list-style: none;
+order: 0;
+flex-grow: 0;
+padding-right: 25px;
+
+}
+
+.buttonstyle {
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 20px;
+gap: 10px;
+margin-right: 10px;
+width: 60px;
+height: 20px;
+left: 1227px;
+background: #F84646;
+border-radius: 5px;
+}
+
+.buttonstyle a{
+    color: white;
+}
