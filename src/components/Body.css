@@ -78,7 +78,7 @@ p.subject {
   .image4 {
     max-width: 5%;
       max-height: 100%;
-      width: 18%;
+      margin  : 18%;
   }
 
   .image5 {
@@ -91,7 +91,7 @@ p.subject {
     position: absolute;
 width: 284px;
 height: 31px;
-left: 260px;
+left: 230px;
 top: 1110px;
 
 font-family: 'Manrope';
@@ -108,7 +108,7 @@ color: #000000;
     position: absolute;
 width: 298px;
 height: 84px;
-left: 260px;
+left: 210px;
 top: 1180px;
 
 font-family: 'Manrope';
@@ -197,4 +197,123 @@ letter-spacing: 0.2px;
 
 color: #000000;
   }
+
+  .fourth-head {
+    position: absolute;
+width: 284px;
+height: 31px;
+left: 230px;
+top: 1110px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 290px;
+text-align: center;
+
+color: #000000;
+
+  }
+
+  .fourth-img {
+    position: absolute;
+  width: 298px;
+  height: 84px;
+  left: 210px;
+  top: 1560px;
+  
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  /* or 156% */
+  
+  text-align: center;
+  letter-spacing: 0.2px;
+  
+  color: #000000;
+  }
+
+.fifth-head {
+  position: absolute;
+width: 284px;
+height: 31px;
+left: 540px;
+top: 1495px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #000000;
+}
+
+.fifth-img {
+  position: absolute;
+width: 298px;
+height: 84px;
+left: 10 px;
+top: 1560px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #000000;
+}
+
+
+
+.sixth-head {
+  position: absolute;
+  width: 284px;
+  height: 31px;
+  left: 840px;
+  top: 1110px;
+  
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 290px;
+  text-align: center;
+  
+  color: #000000;
+}
+
+.sixth-img {
+  position: absolute;
+  width: 298px;
+  height: 84px;
+  left: 830px;
+  top: 1560px;
+  
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  /* or 156% */
+  
+  text-align: center;
+  letter-spacing: 0.2px;
+  
+  color: #000000;
+}
+
+
+
+
+
 

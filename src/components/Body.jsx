@@ -28,8 +28,14 @@ function Body() {
       </div>
       <div className='container1'>
       <img src={File3} alt="Example Image" className="image3" />
+      <p className='fourth-head'><br></br>Akış Diyagramları</p>
+      <p className='fourth-img'><br></br>Ante vulputate ut at accumsan et. Feugiat at tempus, est senectus amet, elementum.<br></br></p>
       <img src={File4} alt="Example Image" className="image4" />
+      <p className='fifth-head'><br></br>Paydaş Analizi</p>
+      <p className='fifth-img'><br></br>Ante vulputate ut at accumsan et. Feugiat at tempus, est senectus amet, elementum.<br></br></p>
       <img src={File5} alt="Example Image" className="image5" />
+      <p className='sixth-head'><br></br>Prototipleme</p>
+      <p className='sixth-img'><br></br>Ante vulputate ut at accumsan et. Feugiat at tempus, est senectus amet, elementum.<br></br></p>
       </div>
     </div>
     </div>
