@@ -1,4 +1,4 @@
-.heading {
+p.heading {
     position: absolute;
 width: 428px;
 height: 56px;
@@ -15,27 +15,186 @@ text-align: center;
 color: #000000;
 }
 
-.subject {
+p.subject {
     position: absolute;
-width: 994px;
-height: 109px;
-left: 223px;
-top: 850px;
+    width: 994px;
+    height: 109px;
+    left: 223px;
+    top: 850px;
+    
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    /* or 165% */
+    
+    text-align: center;
+    letter-spacing: 0.2px;
+    
+    color: #000000;
+    
+
+} 
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+.container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+  
+  .image {
+    max-width: 10%;
+    max-height: 100%;
+    margin-right: 18%;
+  }
+
+  .image1 {
+    max-width: 5%;
+    max-height: 100%;
+    margin-right: 18%;
+  }
+
+  .image2 {
+    max-width: 5%;
+    max-height: 100%;
+    width: 18%;
+  }
+
+  .image3 {
+      max-width: 5%;
+      max-height: 100%;
+      width: 18%;
+  }
+
+  .image4 {
+    max-width: 5%;
+      max-height: 100%;
+      width: 18%;
+  }
+
+  .image5 {
+    max-width: 5%;
+      max-height: 100%;
+      width: 18%;
+  }
+
+.first-head {
+    position: absolute;
+width: 284px;
+height: 31px;
+left: 260px;
+top: 1110px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #000000;
+}
+
+  .first-img {
+    position: absolute;
+width: 298px;
+height: 84px;
+left: 260px;
+top: 1180px;
 
 font-family: 'Manrope';
 font-style: normal;
 font-weight: 400;
-font-size: 24px;
-line-height: 40px;
-/* or 165% */
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
 
 text-align: center;
 letter-spacing: 0.2px;
 
 color: #000000;
+  }
 
+  .second-head {
+    position: absolute;
+width: 284px;
+height: 31px;
+left: 540px;
+top: 1110px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #000000;
 }
 
-.overlay-image {
-    
-      }
+  .second-img {
+    position: absolute;
+width: 298px;
+height: 84px;
+left: 540px;
+top: 1180px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #000000;
+  }
+
+  .third-head {
+    position: absolute;
+width: 284px;
+height: 31px;
+left: 840px;
+top: 1110px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #000000;
+}
+
+  .third-img {
+    position: absolute;
+width: 298px;
+height: 84px;
+left: 830px;
+top: 1180px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #000000;
+  }
+
