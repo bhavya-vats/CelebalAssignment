@@ -1,5 +1,7 @@
-body{
+.row{
 background: url("C:\Users\Dell\Desktop\STUDY MATERIALS\projects\celebaltask1\src\assets\Rectangle1.png");
+display: table;
+width: 100%;
 }
 
 .main-content {
@@ -7,7 +9,7 @@ background: url("C:\Users\Dell\Desktop\STUDY MATERIALS\projects\celebaltask1\src
 width: 650px;
 height: 164px;
 left: 122px;
-top: 200px;
+top: 150px;
 
 font-family: 'Manrope';
 font-style: normal;
@@ -22,7 +24,8 @@ color: #000000;
 }
 
 .row1 {
-    height: 600px;
+    height: 680px;
+
 }
 
 .subject {
@@ -30,7 +33,7 @@ color: #000000;
 width: 650px;
 height: 99px;
 left: 122px;
-top: 384px;
+top: 340px;
 
 font-family: 'Manrope';
 font-style: normal;
@@ -53,31 +56,35 @@ top: 533px;
 border-radius: 8px;
 }
 
-.textinput {
+input.textinput {
     position: absolute;
 width: 502px;
 height: 73px;
 left: 122px;
-top: 533px;
+top: 530px;
 
 background: #FFFFFF;
 border-radius: 8px;
+border-color: #FFFFFF;
+border-top: #FFFFFF;
+border-left: #FFFFFF;
 /* identical to box height, or 225% */
 
 letter-spacing: 0.2px;
-
-color: rgba(0, 0, 0, 0.4);
 }
 
-.btn {
+button.btn {
     position: absolute;
 width: 136px;
 height: 61px;
 left: 482px;
-top: 600px;
+top: 540px;
 
 background: #F84646;
 border-radius: 8px;
+border-color: #F84646;
+border-bottom: #F84646;
+border-right: #F84646;
 }
 
 .link {

@@ -1,0 +1,41 @@
+.heading {
+    position: absolute;
+width: 428px;
+height: 56px;
+left: 506px;
+top: 800px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 49px;
+text-align: center;
+
+color: #000000;
+}
+
+.subject {
+    position: absolute;
+width: 994px;
+height: 109px;
+left: 223px;
+top: 850px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 40px;
+/* or 165% */
+
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #000000;
+
+}
+
+.overlay-image {
+    
+      }
