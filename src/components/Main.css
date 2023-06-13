@@ -4,7 +4,7 @@ background: url("C:\Users\Dell\Desktop\STUDY MATERIALS\projects\celebaltask1\src
 
 .main-content {
     position: absolute;
-width: 665px;
+width: 650px;
 height: 164px;
 left: 122px;
 top: 200px;
@@ -19,6 +19,10 @@ line-height: 82px;
 
 color: #000000;
 
+}
+
+.row1 {
+    height: 600px;
 }
 
 .subject {
@@ -70,7 +74,7 @@ color: rgba(0, 0, 0, 0.4);
 width: 136px;
 height: 61px;
 left: 482px;
-top: 539px;
+top: 600px;
 
 background: #F84646;
 border-radius: 8px;
@@ -78,4 +82,27 @@ border-radius: 8px;
 
 .link {
     color: white;
+}
+
+::placeholder {
+width: 178px;
+height: 36px;
+left: 154px;
+top: 552px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 36px;
+
+/* identical to box height, or 225% */
+
+letter-spacing: 0.2px;
+
+color: rgba(0, 0, 0, 0.4);
+}
+
+.textinput {
+    top: 590px;
 }
