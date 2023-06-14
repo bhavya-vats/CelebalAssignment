@@ -1,0 +1,138 @@
+.bodyhead1 {
+    position: absolute;
+width: 608px;
+height: 152px;
+left: 121px;
+top: 2150px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 76px;
+/* or 119% */
+
+
+/* Text/Title */
+
+color: #2E2E2E;
+}
+
+.bodysub {
+    position: absolute;
+width: 523px;
+height: 160px;
+left: 121px;
+top: 2380px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* or 200% */
+
+
+/* Text/Body */
+
+color: #808080;
+}
+
+.img1 {
+    position: absolute;
+width: 450px;
+height: 450px;
+left: 814px;
+top: 2210px;
+border-radius: 0px;
+}
+
+.img2 {
+    position: absolute;
+width: 504px;
+height: 420px;
+left: 121px;
+top: 2750px;
+border-radius: 0px;
+}
+
+.bodyhead2 {
+position: absolute;
+width: 548px;
+height: 152px;
+left: 770px;
+top: 2670px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 76px;
+
+color: #2E2E2E;
+
+}
+
+.bodysub2 {
+    position: absolute;
+width: 523px;
+height: 160px;
+left: 770px;
+top: 2900px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* or 200% */
+
+
+/* Text/Body */
+
+color: #808080;
+}
+
+.btn5 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 160px;
+    height: 48px;
+    left: 121px;
+    top: 2600px;
+    color: aliceblue;
+    background: #F84646;
+    border-radius: 8px;
+    border-top: #F84646;
+    border-bottom: #F84646;
+    border-left: #F84646;
+    border-right: #F84646;
+}
+
+.btn6 {
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px;
+gap: 10px;
+margin-top: 15px;
+position: absolute;
+width: 160px;
+height: 48px;
+left: 770px;
+top: 3100px;
+color: aliceblue;
+background: #F84646;
+border-radius: 8px;
+border-top: #F84646;
+border-bottom: #F84646;
+border-left: #F84646;
+border-right: #F84646;
+}
