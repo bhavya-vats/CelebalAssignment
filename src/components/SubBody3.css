@@ -1,5 +1,7 @@
-.contain {
-background: #F4F5F7; ;
+div .contain {
+    background: #F4F5F7;
+}
+.contain { 
 display: table;
 width: 100%;
 display: flex;
@@ -11,6 +13,7 @@ position: absolute;
 left: 0%;
 right: 0%;
 top: 3200px;
+height: 500px;
 }
 
 .head2 {
@@ -50,10 +53,10 @@ flex-grow: 0;
 
 .akbank {
     position: absolute;
-    width: 170px;
+    width: 100px;
     height: 96px;
-    left: 0px;
-    top: 0px;
+    left: 600px;
+    top: 280px;
     
     /* Default / White */
     
@@ -66,33 +69,79 @@ flex-grow: 0;
 
 .bilgi {
     position: absolute;
-    width: 170px;
+    width: 100px;
     height: 96px;
-    left: 0px;
-    top: 0px;
-    
-    /* Default / White */
-    
+    left: 400px;
+    top: 320px;
     background: #FFFFFF;
-    /* Grey Shadow */
-    
     box-shadow: 0px 30px 40px rgba(212, 217, 232, 0.2);
     border-radius: 16px;
 
 }
 
 .aktas {
-    position: absolute;
-width: 170px;
+position: absolute;
+width: 100px;
 height: 96px;
-left: 0px;
-top: 0px;
-
-/* Default / White */
-
+left: 800px;
+top: 320px;
 background: #FFFFFF;
-/* Grey Shadow */
+box-shadow: 0px 30px 40px rgba(212, 217, 232, 0.2);
+border-radius: 16px;
+}
 
+
+.akcan {
+    position: absolute;
+width: 100px;
+height: 96px;
+left: 600px;
+top: 390px;
+background: #FFFFFF;
+box-shadow: 0px 30px 40px rgba(212, 217, 232, 0.2);
+border-radius: 16px;
+}
+
+.borusan {
+position: absolute;
+width: 100px;
+height: 96px;
+left: 270px;
+top: 430px;
+background: #FFFFFF;
+box-shadow: 0px 30px 40px rgba(212, 217, 232, 0.2);
+border-radius: 16px;
+}
+
+.book {
+    position: absolute;
+    width: 140px;
+    height: 96px;
+    left: 380px;
+    top: 440px;
+    background: #FFFFFF;
+    box-shadow: 0px 30px 40px rgba(212, 217, 232, 0.2);
+    border-radius: 16px;
+}
+
+.tumunu {
+    position: absolute;
+    width: 100px;
+    height: 99px;
+    left: 600px;
+    top: 490px;
+    background: #FFFFFF;
+    box-shadow: 0px 30px 40px rgba(212, 217, 232, 0.2);
+    border-radius: 16px;
+}
+
+.ola {
+position: absolute;
+width: 100px;
+height: 96px;
+left: 800px;
+top: 420px;
+background: #FFFFFF;
 box-shadow: 0px 30px 40px rgba(212, 217, 232, 0.2);
 border-radius: 16px;
 }
