@@ -8,6 +8,7 @@ import Borusan from '../assets/borusan.png'
 import BookMyShow from '../assets/BookMyShow Logo.png'
 import Tumunu from '../assets/tumunu.png';
 import Ola from '../assets/ola.png'
+import Amazon from '../assets/amazon.png'
 
 function SubBody3() {
   return (
@@ -23,6 +24,7 @@ function SubBody3() {
         <img src={BookMyShow} className='book'/>
         <img src={Tumunu} className='tumunu'/>
         <img src={Ola} className='ola'/>
+        <img src={Amazon} className='amazon' />
       </div>
     </div>
   )

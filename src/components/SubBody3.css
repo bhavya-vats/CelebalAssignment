@@ -57,15 +57,33 @@ flex-grow: 0;
     height: 96px;
     left: 600px;
     top: 280px;
-    
-    /* Default / White */
-    
     background: #FFFFFF;
-    /* Grey Shadow */
-    
     box-shadow: 0px 30px 40px rgba(212, 217, 232, 0.2);
     border-radius: 16px;
 }
+
+.akcan {
+    position: absolute;
+width: 100px;
+height: 96px;
+left: 600px;
+top: 390px;
+background: #FFFFFF;
+box-shadow: 0px 30px 40px rgba(212, 217, 232, 0.2);
+border-radius: 16px;
+}
+
+.tumunu {
+    position: absolute;
+    width: 120px;
+    height: 99px;
+    left: 590px;
+    top: 490px;
+    background: #FFFFFF;
+    box-shadow: 0px 30px 40px rgba(212, 217, 232, 0.2);
+    border-radius: 16px;
+}
+
 
 .bilgi {
     position: absolute;
@@ -91,16 +109,6 @@ border-radius: 16px;
 }
 
 
-.akcan {
-    position: absolute;
-width: 100px;
-height: 96px;
-left: 600px;
-top: 390px;
-background: #FFFFFF;
-box-shadow: 0px 30px 40px rgba(212, 217, 232, 0.2);
-border-radius: 16px;
-}
 
 .borusan {
 position: absolute;
@@ -124,22 +132,24 @@ border-radius: 16px;
     border-radius: 16px;
 }
 
-.tumunu {
-    position: absolute;
-    width: 100px;
-    height: 99px;
-    left: 600px;
-    top: 490px;
-    background: #FFFFFF;
-    box-shadow: 0px 30px 40px rgba(212, 217, 232, 0.2);
-    border-radius: 16px;
-}
+
 
 .ola {
 position: absolute;
-width: 100px;
+width: 120px;
 height: 96px;
 left: 800px;
+top: 420px;
+background: #FFFFFF;
+box-shadow: 0px 30px 40px rgba(212, 217, 232, 0.2);
+border-radius: 16px;
+}
+
+.amazon {
+    position: absolute;
+width: 120px;
+height: 96px;
+left: 850px;
 top: 420px;
 background: #FFFFFF;
 box-shadow: 0px 30px 40px rgba(212, 217, 232, 0.2);
