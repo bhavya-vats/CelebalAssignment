@@ -1,0 +1,61 @@
+.person {
+position: absolute;
+left: 46.28%;
+right: 49.03%;
+top: 3970px;
+left: 45%;
+bottom: 17.13%;
+height: 60px;
+}
+
+.bize {
+    position: absolute;
+width: 256px;
+height: 32px;
+left: 541px;
+top: 4000px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 32px;
+text-align: center;
+color: #000000;
+}
+
+.cozum {
+position: absolute;
+width: 645px;
+height: 32px;
+left: 360px;
+top: 4100px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 32px;
+text-align: center;
+color: #000000;
+}
+
+.btn-submit {
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 10px;
+color: aliceblue;
+position: absolute;
+width: 204px;
+height: 70px;
+left: 560px;
+top: 4200px;
+border-top: #F84646;
+border-bottom: #F84646;
+border-left: #F84646;
+border-right: #F84646;
+background: #F84646;
+border-radius: 8px;
+overflow: hidden;
+}
