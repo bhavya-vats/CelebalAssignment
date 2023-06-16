@@ -24,14 +24,14 @@ color: #000000;
 }
 
 .row1 {
-    height: 680px;
+    height: 650px;
 
 }
 
 p.subject1 {
     position: absolute;
 width: 650px;
-height: 99px;
+/* height: 99px; */
 left: 122px;
 top: 340px;
 

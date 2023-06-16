@@ -1,3 +1,6 @@
+/* * {
+     overflow-x: hidden; 
+} */
 .person {
 position: absolute;
 left: 46.28%;
@@ -57,5 +60,5 @@ border-left: #F84646;
 border-right: #F84646;
 background: #F84646;
 border-radius: 8px;
-overflow: hidden;
+overflow-x: hidden;
 }

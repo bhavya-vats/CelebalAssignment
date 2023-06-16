@@ -1,0 +1,246 @@
+.bgcolor {
+    background-color: #F8464A;
+    margin-top: 2200px;
+    bottom: 0px;
+    padding: 50px 0px;
+    padding-bottom: 400px;
+}
+
+.text1 {
+position: absolute;
+width: 159px;
+height: 24px;
+left: 104px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+color: antiquewhite;
+}
+
+.text2 {
+position: absolute;
+width: 159px;
+height: 24px;
+left: 104px;
+margin-top: 50px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+color: #E6E6E6;
+padding-top: 10px;
+}
+
+.text3 {
+position: absolute;
+width: 159px;
+height: 24px;
+left: 104px;
+margin-top: 75px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+color: #E6E6E6;
+padding-top: 30px;
+}
+
+.text4 {
+position: absolute;
+width: 190px;
+height: 24px;
+left: 104px;
+margin-top: 100px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+color: #E6E6E6;
+padding-top:60px ;
+}
+
+.text5 {
+    position: absolute;
+    width: 133px;
+    height: 32px;
+    left: 104px;
+    margin-top: 120px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #E6E6E6;
+    padding-top: 90px;
+}
+
+.text6 {
+    position: absolute;
+    width: 200px;
+    height: 32px;
+    left: 104px;
+    margin-top: 140px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #E6E6E6;
+    padding-top: 120px;
+}
+
+.text7 {
+    position: absolute;
+    width: 300px;
+    height: 32px;
+    left: 104px;
+    margin-top: 140px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+color: #FFFFFF;
+padding-top: 210px;
+
+}
+
+.text8 {
+    position: absolute;
+    width: 159px;
+    height: 24px;
+    left: 464px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+color: #FFFFFF;
+}
+
+.text9 {
+position: absolute;
+width: 200px;
+height: 24px;
+left: 464px;
+margin-top: 50px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+color: #E6E6E6;
+padding-top: 10px;
+}
+
+.text10 {
+    position: absolute;
+width: 300px;
+height: 24px;
+left: 464px;
+margin-top: 75px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+color: #E6E6E6;
+padding-top: 30px;
+}
+
+.text11 {
+    position: absolute;
+width: 300px;
+height: 24px;
+left: 464px;
+margin-top: 125px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+color: #E6E6E6;
+padding-top: 30px;
+}
+
+.text12 {
+    position: absolute;
+    width: 200px;
+    height: 32px;
+    left: 464px;
+    margin-top: 80px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #E6E6E6;
+    padding-top: 120px;
+}
+
+.text13 {
+    position: absolute;
+width: 159px;
+height: 24px;
+left: 820px;
+margin-top: 10px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+color: antiquewhite;
+}
+
+.text14 {
+    position: absolute;
+    width: 159px;
+    height: 24px;
+    left: 820px;
+    margin-top: 45px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #E6E6E6;
+    padding-top: 10px;
+}
+
+.text15 {
+position: absolute;
+width: 159px;
+height: 24px;
+left: 820px;
+margin-top: 73px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+color: #E6E6E6;
+padding-top: 30px;
+}
+
+.text16 {
+position: absolute;
+width: 190px;
+height: 24px;
+left: 820px;
+margin-top: 95px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+color: #E6E6E6;
+padding-top:60px ;
+}

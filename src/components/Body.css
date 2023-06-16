@@ -18,7 +18,7 @@ color: #000000;
 p.subject {
     position: absolute;
     width: 994px;
-    height: 109px;
+    /* height: 109px; */
     left: 223px;
     top: 850px;
     
@@ -107,7 +107,7 @@ color: #000000;
   .first-img {
     position: absolute;
 width: 298px;
-height: 84px;
+/* height: 84px; */
 left: 210px;
 top: 1180px;
 
@@ -144,7 +144,7 @@ color: #000000;
   .second-img {
     position: absolute;
 width: 298px;
-height: 84px;
+/* height: 84px; */
 left: 540px;
 top: 1180px;
 
@@ -181,7 +181,7 @@ color: #000000;
   .third-img {
     position: absolute;
 width: 298px;
-height: 84px;
+/* height: 84px; */
 left: 830px;
 top: 1180px;
 
@@ -219,7 +219,7 @@ color: #000000;
   .fourth-img {
     position: absolute;
   width: 298px;
-  height: 84px;
+  /* height: 84px; */
   left: 210px;
   top: 1560px;
   
@@ -256,7 +256,7 @@ color: #000000;
 .fifth-img {
   position: absolute;
 width: 298px;
-height: 84px;
+/* height: 84px; */
 left: 10 px;
 top: 1560px;
 
@@ -295,7 +295,7 @@ color: #000000;
 .sixth-img {
   position: absolute;
   width: 298px;
-  height: 84px;
+  /* height: 84px; */
   left: 830px;
   top: 1560px;
   

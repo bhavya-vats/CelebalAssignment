@@ -6,7 +6,7 @@ nav {
 nav ul {
 display: flex;
 justify-content: flex-end;
-height: 20px;
+/* height: 20px; */
 font-family: 'Manrope';
 font-style: normal;
 padding-right: 10% ;
