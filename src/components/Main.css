@@ -1,5 +1,5 @@
 .row{
-background: url("C:\Users\Dell\Desktop\STUDY MATERIALS\projects\celebaltask1\src\assets\Rectangle1.png");
+background: url('../assets/Rectangle1.png');
 display: table;
 width: 100%;
 }
