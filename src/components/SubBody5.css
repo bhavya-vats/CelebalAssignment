@@ -244,3 +244,43 @@ line-height: 32px;
 color: #E6E6E6;
 padding-top:60px ;
 }
+
+.linkedin {
+    position: absolute;
+    width: 20px;
+    height: 30px;
+    left: 1000px;
+    margin-top: 290px;
+padding-top: 60px;
+height: 20px;
+}
+
+.twitter {
+    position: absolute;
+    width: 20px;
+    height: 25px;
+    left: 1050px;
+    margin-top: 290px;
+padding-top: 60px;
+height: 20px;
+}
+
+.instagram {
+    position: absolute;
+    width: 20px;
+    height: 25px;
+    left: 1100px;
+    margin-top: 290px;
+padding-top: 60px;
+height: 20px;
+}
+
+.facebook {
+    position: absolute;
+    width: 25px;
+    height: 30px;
+    left: 1150px;
+    margin-top: 290px;
+padding-top: 60px;
+height: 20px;
+}

@@ -1,5 +1,9 @@
 import React from 'react'
 import './SubBody5.css'
+import Twitter from '../assets/twitter.jpeg';
+import Linkedin from '../assets/linkedin.jpeg'
+import Facebook from '../assets/facebook.jpeg';
+import Instagram from '../assets/instagram.jpeg'
 
 function SubBody5() {
   return (
@@ -22,6 +26,10 @@ function SubBody5() {
       <p className='text14'>Hakkımızda</p>
       <p className='text15'>Belge ve Yetkinlikler</p>
       <p className='text16'>İş Ortakları</p>
+      <img src={Linkedin} className='linkedin'/>
+      <img src={Twitter} className='twitter'/>
+      <img src={Instagram} className='instagram'/>
+      <img src={Facebook} className='facebook'/>
         </div>
     </div>
     
